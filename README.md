@@ -1,11 +1,11 @@
 ![Github Banner](https://github.com/shreyansh-g24/shreyansh-g24/assets/40631571/31abb879-2caa-4d2a-a6ff-2956b120608e)
 
-I'm a Software Engineer who loves to learn about new things. Follow me on [X](https://x.com/_backslashzero).
+I'm a Software Engineer who loves to learn about new things.
 
 - 🔭 I’m currently working as a Software Engineer at BigBinary.
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about Software Engineering.
-- 📫 How to reach me: [X](https://x.com/_backslashzero)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-gupta0/)
 
 <!--
 **shreyansh-g24/shreyansh-g24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
