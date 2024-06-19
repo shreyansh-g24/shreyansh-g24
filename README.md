@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/shreyansh-g24/shreyansh-g24/assets/40631571/31abb879-2caa-4d2a-a6ff-2956b120608e)
+![Black Modern Personal LinkedIn Banner](https://github.com/shreyansh-g24/shreyansh-g24/assets/40631571/aa3a329d-fec2-4894-88b7-132c707c86ee)
 
 I'm a Software Engineer who loves to learn about new things.
 
