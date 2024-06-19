@@ -3,9 +3,11 @@
 I'm a Software Engineer who loves to learn about new things.
 
 - 🔭 I’m currently working as a Software Engineer at BigBinary.
-- 👯 I’m looking to collaborate on interesting projects.
-- 💬 Ask me about anything.
+- 🌱 I’m currently learning Advanced System Design.
+- 👯 I’m looking to collaborate on interesting projects in any tech stack.
+- 💬 Ask me about Software Engineering.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-gupta0/)
+- ⚡ Fun fact: I love learning new skills.
 
 <!--
 **shreyansh-g24/shreyansh-g24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
