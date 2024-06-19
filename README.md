@@ -1,8 +1,8 @@
 ![Github Banner](https://github.com/shreyansh-g24/shreyansh-g24/blob/e7c78bff1a28ac065967c35354d88857e11a633f/assets/Github_Banner_19062024.png)
 
-I'm a Software Engineer who loves to learn about new things.
+I'm a Software Engineer at BigBinary.
 
-- 🔭 I’m currently working as a Software Engineer at BigBinary.
+- 🔭 I’m currently primarily working with Ruby on Rails, Stimulus and MySQL.
 - 🌱 I’m currently learning Advanced System Design.
 - 👯 I’m looking to collaborate on interesting projects in any tech stack.
 - 💬 Ask me about Software Engineering.
