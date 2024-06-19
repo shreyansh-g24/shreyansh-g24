@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/shreyansh-g24/shreyansh-g24/assets/40631571/d8e522f7-3156-4123-b95e-b94c482f0e9c)
+![Github Banner](https://github.com/shreyansh-g24/shreyansh-g24/blob/e7c78bff1a28ac065967c35354d88857e11a633f/assets/Github_Banner_19062024.png)
 
 I'm a Software Engineer who loves to learn about new things.
 
