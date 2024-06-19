@@ -1,4 +1,6 @@
-![Github Banner](https://github.com/shreyansh-g24/shreyansh-g24/blob/e7c78bff1a28ac065967c35354d88857e11a633f/assets/Github_Banner_19062024.png)
+<div>
+  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Shreyansh Gupta!</h3>
+</div>
 
 I'm a Software Engineer currently working at BigBinary.
 
