@@ -4,7 +4,7 @@
 
 I'm a Software Engineer currently working at BigBinary.
 
-- 🔭 I’m currently primarily working with Ruby on Rails, Stimulus and MySQL.
+- 🔭 I’m currently primarily working with Ruby on Rails, Stimulus, React and MySQL.
 - 🌱 I’m currently learning Advanced System Design.
 - 👯 I’m looking to collaborate on interesting projects in any tech stack.
 - 💬 Ask me about Software Engineering.
