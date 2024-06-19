@@ -1,10 +1,10 @@
-![Black Modern Personal LinkedIn Banner](https://github.com/shreyansh-g24/shreyansh-g24/assets/40631571/aa3a329d-fec2-4894-88b7-132c707c86ee)
+![Github Banner](https://github.com/shreyansh-g24/shreyansh-g24/assets/40631571/d8e522f7-3156-4123-b95e-b94c482f0e9c)
 
 I'm a Software Engineer who loves to learn about new things.
 
 - 🔭 I’m currently working as a Software Engineer at BigBinary.
 - 👯 I’m looking to collaborate on interesting projects.
-- 💬 Ask me about Software Engineering.
+- 💬 Ask me about anything.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-gupta0/)
 
 <!--
