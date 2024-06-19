@@ -2,7 +2,7 @@
 
 I'm a Software Engineer who loves to learn about new things. Follow me on [X](https://x.com/_backslashzero).
 
-- 🔭 I’m currently working with Ruby on Rails, Stimulus and MySQL.
+- 🔭 I’m currently working as a Software Engineer at BigBinary.
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about Software Engineering.
 - 📫 How to reach me: [X](https://x.com/_backslashzero)
