@@ -2,9 +2,9 @@
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Shreyansh Gupta!</h3>
 </div>
 
-I'm a Software Engineer currently working at BigBinary.
+I am a Full Stack Software Engineer with 5 years of industry experience. I have worked on a wide variety of applications.
 
-- 🔭 I’m currently primarily working with Ruby on Rails, Stimulus, React and MySQL.
+- 🔭 I’m currently working as a Software Engineer at BigBinary.
 - 🌱 I’m currently learning Advanced System Design.
 - 👯 I’m looking to collaborate on interesting projects in any tech stack.
 - 💬 Ask me about Software Engineering.
