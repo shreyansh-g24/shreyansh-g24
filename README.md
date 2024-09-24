@@ -5,7 +5,7 @@
 I am a Full Stack Software Engineer with 5 years of industry experience. I have worked on a wide variety of applications.
 
 - 🔭 I’m currently working as a Software Engineer at BigBinary.
-- 🌱 I’m currently learning Advanced System Design.
+- 🌱 I’m currently learning about performance optimizations.
 - 👯 I’m looking to collaborate on interesting projects in any tech stack.
 - 💬 Ask me about Software Engineering.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-gupta0/)
