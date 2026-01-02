@@ -2,7 +2,7 @@
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Shreyansh Gupta!</h3>
 </div>
 
-I am a Full Stack Software Engineer with 5 years of industry experience. I have worked on a wide variety of applications.
+I am a Full Stack Software Engineer with 6 years of industry experience. I have worked on a wide variety of applications.
 
 - 🔭 I’m currently working as a Senior Software Engineer.
 - 🌱 I’m currently learning about working on large scale enterprise applications.
